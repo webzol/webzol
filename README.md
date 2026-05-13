@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a1628,50:0d47a1,100:42a5f5&text=Hi%20there,%20I'm%20Kit.!&fontSize=45&reversal=false&section=header&fontColor=ffffff&textBg=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hi%20there,%20I'm%20Kit.!&fontSize=45&reversal=false&section=header&fontColor=ffffff&textBg=false" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&height=50&lines=Don't+pray+for+miracles.+Practice+endlessly.;Pixel+by+pixel,+line+by+line.;Always+learning,+always+building.&background=0D1117&border=1565C0&borderWidth=2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&height=50&lines=Don't+pray+for+miracles.+Practice+endlessly.;Pixel+by+pixel,+line+by+line.;Always+learning,+always+building.&background=0D1117&border=0072ff&borderWidth=2" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Location-Xi'an%20,%20China-1565C0?style=for-the-badge&labelColor=0a1628&color=42A5F5" />
-  <img src="https://img.shields.io/badge/🎮%20Repos-28-0D47A1?style=for-the-badge&labelColor=0a1628&color=42A5F5" />
-  <img src="https://img.shields.io/badge/👥%20Followers-10-1565C0?style=for-the-badge&labelColor=0a1628&color=42A5F5" />
-  <img src="https://img.shields.io/badge/✅%20Open%20to%20Work-Yes-42A5F5?style=for-the-badge&labelColor=0a1628&color=0D47A1" />
+  <img src="https://img.shields.io/badge/📍%20Location-Xi'an%20,%20China-1565C0?style=for-the-badge&labelColor=0a1628&color=00c6ff" />
+  <img src="https://img.shields.io/badge/🎮%20Repos-28-0D47A1?style=for-the-badge&labelColor=0a1628&color=00c6ff" />
+  <img src="https://img.shields.io/badge/👥%20Followers-10-1565C0?style=for-the-badge&labelColor=0a1628&color=00c6ff" />
+  <img src="https://img.shields.io/badge/✅%20Open%20to%20Work-Yes-42A5F5?style=for-the-badge&labelColor=0a1628&color=0072ff" />
 </p>
 
 <p align="center">
@@ -54,8 +54,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webzol&show_icons=true&theme=radical&bg_color=0a1628&hide_border=true&title_color=42a5f5&icon_color=1565c0&text_color=c9d1d9&ring_color=42a5f5&card_width=380" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webzol&theme=radical&background=0a1628&hide_border=true&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5&sideLabels=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=webzol&show_icons=true&theme=radical&bg_color=0a1628&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9&ring_color=00c6ff&card_width=380" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webzol&theme=radical&background=0a1628&hide_border=true&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=c9d1d9" width="48%" />
 </p>
 
 <p align="center">
@@ -82,12 +82,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/webzol/Gold">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webzol&repo=Gold&theme=radical&bg_color=0a1628&hide_border=true&title_color=42a5f5&icon_color=1565c0&text_color=c9d1d9" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webzol&repo=Gold&theme=radical&bg_color=0a1628&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/webzol/ai-video-script-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webzol&repo=ai-video-script-generator&theme=radical&bg_color=0a1628&hide_border=true&title_color=42a5f5&icon_color=1565c0&text_color=c9d1d9" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webzol&repo=ai-video-script-generator&theme=radical&bg_color=0a1628&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9" />
       </a>
     </td>
   </tr>
@@ -106,7 +106,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" /> Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webzol&theme=github&bg_color=0a1628&hide_border=true&color=42a5f5&line=1565c0&point=ffffff&area=true&area_color=42a5f5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webzol&theme=github&bg_color=0a1628&hide_border=true&color=00c6ff&line=0072ff&point=ffffff&area=true&area_color=00c6ff" />
 </p>
 
 ---
@@ -122,5 +122,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=webzol&color=42a5f5&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=webzol&color=00c6ff&style=for-the-badge&label=Profile+Views" />
 </p>
