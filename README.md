@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/28abba3fcb807f1a55eb693adc35d77c44271a8a/25liday.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff6b6b,100:4ecdc4&section=header&reversal=false" width="100%" />
 </p>
 
 <h1 align="center">
@@ -122,10 +122,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff6b6b,100:4ecdc4&section=footer&reversal=true" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=webzol&color=ff6b6b&style=for-the-badge&label=Profile+Views" />
