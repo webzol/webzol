@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=40&lines=Don't+pray+for+miracles.+Practice+endlessly.;Pixel+by+pixel,+line+by+line.;Always+learning,+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=50&lines=Don't+pray+for+miracles.+Practice+endlessly.;Pixel+by+pixel,+line+by+line.;Always+learning,+always+building.&background=0D1117&border=4ECDC4&borderWidth=2" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,15 +23,15 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" /> About Me
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║  🎮  Pixel enthusiast & code craftsman                   ║
-║  📍  Based in Xi'an, China                               ║
-║  💻  Always building something new                       ║
-║  🎯  "Don't pray for miracles. Practice endlessly."      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```diff
++ ╔══════════════════════════════════════════════════════════╗
++ ║                                                          ║
++ ║  🎮  Pixel enthusiast & code craftsman                   ║
++ ║  📍  Based in Xi'an, China                               ║
++ ║  💻  Always building something new                       ║
++ ║  🎯  "Don't pray for miracles. Practice endlessly."      ║
++ ║                                                          ║
++ ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
