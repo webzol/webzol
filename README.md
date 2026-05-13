@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff6b6b,100:4ecdc4&section=header&reversal=false" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nicehash/branding/refs/heads/master/Other/Pixel%20Art%20-%20Characters/Thumbs%20up/NH_char_thumbsup_pixel.gif" width="40px" />
   Hi, I'm <a href="https://github.com/webzol">Kit.</a>
@@ -20,7 +16,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff6b6b,100:4ecdc4&section=header&reversal=false" width="100%" />
+</p>
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" /> About Me
 
 ```diff
