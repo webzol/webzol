@@ -1,16 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a1628,50:0d47a1,100:42a5f5&section=header&reversal=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a1628,50:0d47a1,100:42a5f5&text=Hi%20there,%20I'm%20Kit.!&fontSize=45&reversal=false&section=header&fontColor=ffffff&textBg=false" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:42a5f5,100:0d47a1" width="80%" />
-</p>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/nicehash/branding/refs/heads/master/Other/Pixel%20Art%20-%20Characters/Thumbs%20up/NH_char_thumbsup_pixel.gif" width="45px" />
-  Hi, I'm <a href="https://github.com/webzol">Kit.</a>
-  <img src="https://raw.githubusercontent.com/nicehash/branding/refs/heads/master/Other/Pixel%20Art%20-%20Characters/Thumbs%20up/NH_char_thumbsup_pixel.gif" width="45px" />
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&height=50&lines=Don't+pray+for+miracles.+Practice+endlessly.;Pixel+by+pixel,+line+by+line.;Always+learning,+always+building.&background=0D1117&border=1565C0&borderWidth=2" alt="Typing SVG" />
