@@ -22,14 +22,16 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" /> About Me
 
 ```diff
-+ ╔══════════════════════════════════════════════════════════╗
-+ ║                                                          ║
-+ ║  🎮  Pixel enthusiast & code craftsman                   ║
-+ ║  📍  Based in Xi'an, China                               ║
-+ ║  💻  Always building something new                       ║
-+ ║  🎯  "Don't pray for miracles. Practice endlessly."      ║
-+ ║                                                          ║
-+ ╚══════════════════════════════════════════════════════════╝
++ ╔══════════════════════════════════════════════════════════════════╗
++ ║                                                                  ║
++ ║  👨‍💻  开发工程师出身，转型运营赛道                                 ║
++ ║  🏘️  社群 & 私域运营体系搭建                                      ║
++ ║  📊  数据驱动运营，用代码思维做增长                                 ║
++ ║  🎬  抖音内容创作：拍摄 / 剪辑 / 直播                              ║
++ ║  📍  坐标西安                                                     ║
++ ║  🎯  Don't pray for miracles. Practice endlessly.                ║
++ ║                                                                  ║
++ ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
