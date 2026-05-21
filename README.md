@@ -52,50 +52,6 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25" /> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webzol&show_icons=true&theme=radical&bg_color=0a1628&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9&ring_color=00c6ff&card_width=380" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webzol&theme=radical&background=0a1628&hide_border=true&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webzol&layout=compact&theme=radical&bg_color=0a1628&hide_border=true&title_color=42a5f5&text_color=c9d1d9&card_width=380" width="40%" />
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="25" /> Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webzol/webzol/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webzol/webzol/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/webzol/webzol/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" /> Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/webzol/Gold">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webzol&repo=Gold&theme=radical&bg_color=0a1628&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/webzol/ai-video-script-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webzol&repo=ai-video-script-generator&theme=radical&bg_color=0a1628&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" /> Trophies
 
 <p align="center">
